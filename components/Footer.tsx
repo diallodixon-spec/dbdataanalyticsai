@@ -32,7 +32,7 @@ export default function Footer() {
         <div>
           <p className="font-display font-bold text-foreground">Company</p>
           <ul className="mt-4 space-y-3 text-base text-muted-foreground">
-            <li><a href="#case-studies" className="hover:text-foreground transition-colors">Case Studies</a></li>
+            {/* <li><a href="#case-studies" className="hover:text-foreground transition-colors">Case Studies</a></li> */}
             <li><a href="#process" className="hover:text-foreground transition-colors">Process</a></li>
             <li><a href="#contact" className="hover:text-foreground transition-colors">Contact</a></li>
             <li><a href="/" className="hover:text-foreground transition-colors">Privacy</a></li>

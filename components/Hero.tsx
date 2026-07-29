@@ -26,7 +26,7 @@ export default function Hero() {
               href="#cta"
               className="px-6 py-3 bg-primary text-primary-foreground rounded-xl font-medium glow-indigo hover:opacity-90 transition-opacity"
             >
-              Book a strategy call
+              Contact Us Today
             </a>
             <a
               href="#services"

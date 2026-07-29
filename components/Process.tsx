@@ -35,7 +35,7 @@ export default function Process() {
           <span className="text-sm font-bold tracking-wide text-primary uppercase">
             Our Process
           </span>
-          <h2 className="font-display text-3xl md:text-3xl font-extrabold mt-4 text-foreground text-balance">
+          <h2 className="font-display text-3xl font-bold mt-3 max-w-2xl mx-auto text-foreground">
             A proven path from data chaos to clarity
           </h2>
         </div>

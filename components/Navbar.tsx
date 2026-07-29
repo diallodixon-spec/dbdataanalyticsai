@@ -16,11 +16,11 @@ export default function Navbar() {
         <nav className="hidden md:flex items-center gap-8 text-base text-muted-foreground">
           <a href="#services" className="hover:text-foreground transition-colors">Services</a>
           <a href="#process" className="hover:text-foreground transition-colors">Process</a>
-          <a href="#case-studies" className="hover:text-foreground transition-colors">Case Studies</a>
+          {/* <a href="#case-studies" className="hover:text-foreground transition-colors">Case Studies</a> */}
         </nav>
 
         <div className="hidden md:flex items-center gap-8">
-          <a href="#contact" className="text-base text-muted-foreground hover:text-foreground transition-colors">
+          <a href="#cta" className="text-base text-muted-foreground hover:text-foreground transition-colors">
             Contact
           </a>
           <a

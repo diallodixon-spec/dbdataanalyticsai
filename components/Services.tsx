@@ -23,9 +23,9 @@ const services = [
     title: "AI Content Intelligence",
     desc: "Turn audio and video content into written format with AI-powered repurposing for creators and media teams.",
     points: [
+      "Transcript Cleaner tool", 
       "Written articles from audio and video content",
       "Create social media posts from long-form content",
-      "Generate newsletters from podcasts, youtube and radio",
     ],
   },
   {
