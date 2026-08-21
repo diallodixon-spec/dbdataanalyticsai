@@ -1,6 +1,7 @@
 import { notFound } from 'next/navigation';
 import { supabasePublic } from '@/lib/supabase/public';
 import ReactMarkdown from 'react-markdown';
+import remarkGfm from 'remark-gfm';
 
 export const revalidate = 60;
 
@@ -54,8 +55,8 @@ export default async function ArticlePage({ params }: { params: ParamsPromise })
             </div>
           )}
         </div>
-        <div className="prose prose-invert max-w-none prose-headings:font-display prose-a:text-primary">
-          <ReactMarkdown>{article.content}</ReactMarkdown>
+        <div className="prose prose-invert max-w-none prose-headings:font-display prose-a:text-primary prose-table:text-sm prose-th:text-foreground prose-td:text-foreground">
+          <ReactMarkdown remarkPlugins={[remarkGfm]}>{article.content}</ReactMarkdown>
         </div>
       </article>
     </main>
