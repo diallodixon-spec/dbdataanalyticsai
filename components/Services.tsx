@@ -2,7 +2,7 @@ const services = [
   {
     title: "Business Intelligence",
     href: "/blog/tag/BusinessIntelligence",
-    desc: "Understand the story behind your sales. Our POS Intelligence Report service transforms your Point-of-Sale data into Executive Summaries and Management Reports that explain what changed, what drove the change, and where management should focus.",
+    desc: "Our POS Intelligence Report service transforms your Point-of-Sale data into Executive Summaries and Management Reports that explain what changed, what drove the change, and where management should focus.",
     points: ["Executive Summaries", "Management Reports", "Sales trends and performance analysis"],
   },
   {
@@ -17,23 +17,23 @@ const services = [
   },
   {
     title: "Predictive Analytics",
-    desc: "Anticipate potential outcomes and make more informed decisions. Use historical data to forecast future activity, identify risks, and help your business prepare for what may happen next..",
+    desc: "Anticipate potential outcomes and make more informed decisions. Use historical data to forecast future activity, identify risks, and help your business prepare for what may happen next.",
     points: ["Sales forecasting", "Loan default prediction", "Reservation cancellation prediction"],
   },
   {
     title: "Customer Analytics",
-    desc: "Understand who your customers are, how they behave, and what influences their decisions. Use these insights to identify customer groups, anticipate customer needs, and support more targeted marketing and retention strategies..",
+    desc: "Understand who your customers are, how they behave, and what influences their decisions. Use these insights to identify customer groups, anticipate customer needs, and support more targeted marketing and retention strategies.",
     points: ["Customer segmentation", "Customer churn prediction", "Customer behavior analysis"],
   },
   {
     title: "Basket Analytics",
-    desc: "Discover patterns in what customers buy. Go beyond individual product sales to uncover purchasing relationships and identify opportunities for promotions, product bundling, and merchandising..",
+    desc: "Discover patterns in what customers buy. Go beyond individual product sales to uncover purchasing relationships and identify opportunities for promotions, product bundling, and merchandising.",
     points: ["Products performance and trend analysis", "Identify products commonly purchased together", "Label shopping baskets"],
   },
   {
     title: "AI Solutions & Services",
     href: "/blog//did-your-store-open-on-time",
-    desc: "Apply AI to practical business challenges across retail, hospitality and media. From monitoring store operations and property conditions to transforming audio content into articles, our solutions help businesses uncover opportunities to improve efficiency and automate tasks.",
+    desc: "Apply AI to business challenges across retail, hospitality and media. From monitoring store and property conditions to transforming audio content into articles, our solutions help businesses uncover opportunities to improve efficiency and automate tasks.",
     points: ["Detect when a store opens later than scheduled", "Identify when air conditioning is running while doors or windows are open", "Generate articles from radio broadcasts, podcasts, and YouTube videos"],
   },
 ];
