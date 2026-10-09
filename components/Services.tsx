@@ -33,7 +33,7 @@ const services = [
   {
     title: "AI Solutions & Services",
     href: "/blog//did-your-store-open-on-time",
-    desc: "Apply AI to business challenges across retail, hospitality and media. From monitoring store and property conditions to transforming audio content into articles, our solutions help businesses uncover opportunities to improve efficiency and automate tasks.",
+    desc: "Apply AI to challenges across retail, hospitality and media. From monitoring store and property conditions to transforming audio content, our solutions help businesses uncover opportunities to improve efficiency and automate tasks.",
     points: ["Detect when a store opens later than scheduled", "Identify when air conditioning is running while doors or windows are open", "Generate articles from radio broadcasts, podcasts, and YouTube videos"],
   },
 ];
