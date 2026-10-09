@@ -14,7 +14,7 @@ export default function Footer() {
             </span>
           </a>
           <p className="text-base text-muted-foreground mt-5 max-w-xs">
-            Data analytics, business intelligence, and AI services for modern
+            Managed Analytics Services for modern
             enterprises that want to move faster and smarter.
           </p>
         </div>
@@ -22,10 +22,12 @@ export default function Footer() {
         <div>
           <p className="font-display font-bold text-foreground">Services</p>
           <ul className="mt-4 space-y-3 text-base text-muted-foreground">
-            <li><a href="#services" className="hover:text-foreground transition-colors">Data Analytics</a></li>
             <li><a href="#services" className="hover:text-foreground transition-colors">Business Intelligence</a></li>
-            <li><a href="#services" className="hover:text-foreground transition-colors">AI & Machine Learning</a></li>
-            <li><a href="#services" className="hover:text-foreground transition-colors">Content Intelligence & Automation</a></li>
+            <li><a href="#services" className="hover:text-foreground transition-colors">Anomaly Intelligence</a></li>
+            <li><a href="#services" className="hover:text-foreground transition-colors">Predictive Analytics</a></li>
+            <li><a href="#services" className="hover:text-foreground transition-colors">Customer Analytics</a></li>
+            <li><a href="#services" className="hover:text-foreground transition-colors">Product Analytics</a></li>
+            <li><a href="#services" className="hover:text-foreground transition-colors">AI Solutions & Services</a></li>
           </ul>
         </div>
 

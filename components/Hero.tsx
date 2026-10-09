@@ -8,7 +8,7 @@ export default function Hero() {
       <div className="relative max-w-6xl mx-auto grid md:grid-cols-2 gap-12 items-center">
         <div>
           <span className="inline-block text-xs font-semibold tracking-wide text-primary bg-secondary px-3 py-1 rounded-full mb-6">
-            AI-powered analytics for modern businesses
+            Managed Analytics Services for modern businesses
           </span>
 
           <h1 className="font-display text-4xl md:text-5xl font-bold leading-tight text-balance text-foreground">

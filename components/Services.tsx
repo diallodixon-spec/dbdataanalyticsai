@@ -2,39 +2,39 @@ const services = [
   {
     title: "Business Intelligence",
     href: "/blog/tag/BusinessIntelligence",
-    desc: "Empower decision-makers with self-service BI, automated reporting, and visibility into every business function.",
-    points: ["Executive dashboards", "Automated reporting", "Self-service BI"],
+    desc: "Understand the story behind your sales. Our POS Intelligence Report service transforms your Point-of-Sale data into Executive Summaries and Management Reports that explain what changed, what drove the change, and where management should focus.",
+    points: ["Executive Summaries", "Management Reports", "Sales trends and performance analysis"],
   },
   {
-    title: "AI Content Intelligence",
-    href: "/blog/turn-your-radio-broadcasts-into-digital-content-with-featherscribe-ai",
-    desc: "Turn audio and video content into written format with AI-powered repurposing for creators and media teams.",
+    title: "Anomaly Intelligence",
+    // href: "/blog/turn-your-radio-broadcasts-into-digital-content-with-featherscribe-ai",
+    desc: "Identify unusual patterns, unexpected events, and activity that falls outside normal behavior. Our anomaly detection solutions help businesses flag potential risks and investigate activity that might otherwise go unnoticed.",
     points: [
-      "Transcript Cleaner tool", 
-      "Written articles from audio and video content",
-      "Create social media posts from long-form content",
+      "Fraud and suspicious activity detection", 
+      "Rare event detection",
+      "Automated anomaly reports",
     ],
   },
   {
-    title: "AI Monitoring & Intelligent Alerts",
+    title: "Predictive Analytics",
+    desc: "Anticipate potential outcomes and make more informed decisions. Use historical data to forecast future activity, identify risks, and help your business prepare for what may happen next..",
+    points: ["Sales forecasting", "Loan default prediction", ""Reservation cancellation prediction],
+  },
+  {
+    title: "Customer Analytics",
+    desc: "Understand who your customers are, how they behave, and what influences their decisions. Use these insights to identify customer groups, anticipate customer needs, and support more targeted marketing and retention strategies..",
+    points: ["Customer segmentation", "Customer churn prediction", "Customer behavior analysis"],
+  },
+  {
+    title: "Basket Analytics",
+    desc: "Discover patterns in what customers buy. Go beyond individual product sales to uncover purchasing relationships and identify opportunities for promotions, product bundling, and merchandising..",
+    points: ["Products performance and trend analysis", "Identify products commonly purchased together", "Label shopping baskets"],
+  },
+  {
+    title: "AI Solutions & Services",
     href: "/blog//did-your-store-open-on-time",
-    desc: "AI-powered monitoring that detects operational anomalies and sends intelligent alerts so your teams respond faster.",
-    points: ["Store opened late detection", "AC running while doors or windows are open"],
-  },
-  {
-    title: "Data Analytics",
-    desc: "Transform raw data into actionable insights with modern analytics pipelines, custom dashboards, and predictive modeling.",
-    points: ["Predictive analytics", "KPI dashboards", "Data warehouse design"],
-  },
-  {
-    title: "AI & Machine Learning",
-    desc: "Build and deploy AI solutions that automate decisions, optimize operations, and create personalized customer experiences.",
-    points: ["ML model development", "NLP and automation", "AI strategy"],
-  },
-  {
-    title: "Data Strategy",
-    desc: "Align your data, people, and technology around a clear roadmap that turns analytics into a sustainable competitive advantage.",
-    points: ["Data roadmap", "Team enablement", "Tech stack design"],
+    desc: "Apply AI to practical business challenges across retail, hospitality and media. From monitoring store operations and property conditions to transforming audio content into articles, our solutions help businesses uncover opportunities to improve efficiency and automate tasks.",
+    points: ["Detect when a store opens later than scheduled", "Identify when air conditioning is running while doors or windows are open", "Generate articles from radio broadcasts, podcasts, and YouTube videos"],
   },
 ];
 
