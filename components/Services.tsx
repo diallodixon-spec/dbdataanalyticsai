@@ -18,7 +18,7 @@ const services = [
   {
     title: "Predictive Analytics",
     desc: "Anticipate potential outcomes and make more informed decisions. Use historical data to forecast future activity, identify risks, and help your business prepare for what may happen next..",
-    points: ["Sales forecasting", "Loan default prediction", ""Reservation cancellation prediction],
+    points: ["Sales forecasting", "Loan default prediction", "Reservation cancellation prediction"],
   },
   {
     title: "Customer Analytics",
