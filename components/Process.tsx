@@ -5,25 +5,25 @@ const steps = [
     number: "01",
     icon: Target,
     title: "Discover",
-    desc: "We assess your data landscape, identify high-impact opportunities, and define success metrics.",
+    desc: "A free conversation to understand your questions, your data and what success looks like.",
   },
   {
     number: "02",
     icon: Layers,
-    title: "Design",
-    desc: "We architect a tailored solution blending analytics, BI, and AI to match your business goals.",
+    title: "Pilot",
+    desc: "A small, defined trial on your own data, so you see results before committing.",
   },
   {
     number: "03",
     icon: Zap,
-    title: "Build",
-    desc: "Our team implements data pipelines, dashboards, and models with engineering excellence.",
+    title: "Deliver",
+    desc: "Reports or automated analysis delivered on a scheduled basis.",
   },
   {
     number: "04",
     icon: TrendingUp,
-    title: "Scale",
-    desc: "We roll out, train your teams, and continuously optimize for long-term performance.",
+    title: "Improve",
+    desc: "We review results with you regularly, refine what’s delivered, and add new analyses as your needs change.",
   },
 ];
 
