@@ -3,14 +3,14 @@ const services = [
     title: "Business Intelligence",
     href: "/blog/tag/BusinessIntelligence",
     desc: "Our POS Intelligence Report service transforms your Point-of-Sale data into Executive Summaries and Management Reports that explain what changed, what drove the change, and where management should focus.",
-    points: ["Executive Summaries", "Management Reports", "Sales trends and performance analysis"],
+    points: ["See what drove sales growth/decline and why", "Executive Summary for key points", "Management Report for detailed overview"],
   },
   {
     title: "Anomaly Intelligence",
     // href: "/blog/turn-your-radio-broadcasts-into-digital-content-with-featherscribe-ai",
     desc: "Identify unusual patterns, unexpected events, and activity that falls outside normal behavior. Our anomaly detection solutions help businesses flag potential risks and investigate activity that might otherwise go unnoticed.",
     points: [
-      "Fraud and suspicious activity detection", 
+      "Discover unusual patterns in sales and transactions", 
       "Rare event detection",
       "Automated anomaly reports",
     ],
